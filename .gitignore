@@ -3,7 +3,7 @@
 ################################################################################
 
 /packages
-/.vs/RoverExercise/v15
+/.vs/RobotExercise/v15
 /RobotExercise/bin/Debug
 /RobotExercise/obj/Debug
 /RobotExercise.Tests/bin/Debug
