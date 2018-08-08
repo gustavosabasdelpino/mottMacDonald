@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/RoverExercise/v15
+/RobotExercise/bin/Debug
+/RobotExercise/obj/Debug
+/RobotExercise.Tests/bin/Debug
+/RobotExercise.Tests/obj/Debug

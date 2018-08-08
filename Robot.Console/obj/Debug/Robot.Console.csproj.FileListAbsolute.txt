@@ -1,0 +1,10 @@
+C:\Tesco\Old\MottMacDonald\Robot.Console\obj\Debug\Robot.Console.csprojResolveAssemblyReference.cache
+C:\Tesco\Old\MottMacDonald\Robot.Console\obj\Debug\Robot.Console.csproj.CoreCompileInputs.cache
+C:\Tesco\Old\MottMacDonald\Robot.Console\bin\Debug\Robot.Console.exe.config
+C:\Tesco\Old\MottMacDonald\Robot.Console\bin\Debug\Robot.Console.exe
+C:\Tesco\Old\MottMacDonald\Robot.Console\bin\Debug\Robot.Console.pdb
+C:\Tesco\Old\MottMacDonald\Robot.Console\bin\Debug\RobotExercise.dll
+C:\Tesco\Old\MottMacDonald\Robot.Console\bin\Debug\RobotExercise.pdb
+C:\Tesco\Old\MottMacDonald\Robot.Console\obj\Debug\Robot.Console.csproj.CopyComplete
+C:\Tesco\Old\MottMacDonald\Robot.Console\obj\Debug\Robot.Console.exe
+C:\Tesco\Old\MottMacDonald\Robot.Console\obj\Debug\Robot.Console.pdb
